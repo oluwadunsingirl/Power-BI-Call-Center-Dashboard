@@ -4,7 +4,7 @@ An interactive dashboard for call center analytics, providing real time insights
 ### Dataset used
 - <a href= "https://github.com/oluwadunsingirl/Power-BI-Call-Center-Dashboard/blob/main/01%20Call-Center-Dataset.xlsx"> Dataset
   
-# Problem statement
+## Problem statement
 To improve customer service efficiency and satisfaction, to analyze call center performance metrics, including agent responsiveness, call resolution, talk time and resolution rate. The goal is to identify patterns, bottlenecks, and high performing agents to inform training, staffing and operational decisions.
 
 # Business Objectives 
@@ -19,6 +19,8 @@ To improve customer service efficiency and satisfaction, to analyze call center 
   -	Disvover relationship between response and resolution time and customer satisfaction
   -	Identify top-performing and underperforming agents
   -	Optimze staffing level by understanding call volumes and patterns.
+
+## Dashboard interaction <a
 
 ### Acknowledgement
 A special thank you to PwC for the Power BI job simulation internship which inspired this project. The hands-on experience and insights gained during the internship played a significant role in shaping this call center analytics dashboard.
