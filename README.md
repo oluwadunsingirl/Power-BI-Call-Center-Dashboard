@@ -1,9 +1,9 @@
 # Power Bi Call Center Interactive Dashboard
 An interactive dashboard for call center analytics, providing real time insights into key-performance indicators (KPIs), agent productivity and customer satisfaction. Built with power BI, this dashboard enables call center managers to make data-driven decisions and optimize operation.
 
-## Dataset used
-
-
+### Dataset used
+- <a href= "https://github.com/oluwadunsingirl/Power-BI-Call-Center-Dashboard/blob/main/01%20Call-Center-Dataset.xlsx"> Dataset
+  
 # Problem statement
 To improve customer service efficiency and satisfaction, to analyze call center performance metrics, including agent responsiveness, call resolution, talk time and resolution rate. The goal is to identify patterns, bottlenecks, and high performing agents to inform training, staffing and operational decisions.
 
